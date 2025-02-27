@@ -9,4 +9,5 @@ def funtion2():
     
     
     """
+    print(0)
     return 0
