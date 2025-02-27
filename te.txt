@@ -1,7 +1,5 @@
-222222
+function1()
 
 
 
-nothinghhh
-我改了一下
-？？？
+function2()
