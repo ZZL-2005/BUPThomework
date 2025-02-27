@@ -1,7 +1,6 @@
-222222
+function1()
+	print helloworld
 
 
 
-nothingzzl
-我改了一下
-？？？
+function2()
